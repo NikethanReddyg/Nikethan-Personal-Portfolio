@@ -1,36 +1,37 @@
 # Personal Portfolio Website in React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project showcases my personal portfolio website, providing information about my skills, projects, education, and work experience. The website is built using React, utilizing various libraries and frameworks for enhanced functionality and styling.
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://user-images.githubusercontent.com/50160672/174933373-1ba6cadf-1c9a-48c3-aa58-984d0bd62d82.png">
+## Preview
+![Portfolio Webpage Home](./src/assets/img/Portfolio_Webpage_Home.png)
 
-Built using:
+## Technologies Used
 
-- Front-end library: React
-- CSS framework: React-bootstrap
-- CSS animations library: Animate.css
+- **React:** The front-end library used to build the interactive and dynamic user interface.
+- **React-bootstrap:** A CSS framework for building responsive and styled components.
+- **Animate.css:** A library for adding animations to different elements on the webpage.
 
-In the /personal-portfolio, you can run:
+## Getting Started
 
-### `npm start`
+### Installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Clone the repository
+git clone https://github.com/NikethanReddyg/Nikethan-Personal-Portfolio.git
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Navigate to the project directory
+cd Nikethan-Personal-Portfolio
 
-### `npm test`
+# Install dependencies
+npm install
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### Usage
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Run the app in development mode
+npm start
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Open http://localhost:3000 in your browser to view the website
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# The page will reload when you make changes
+# You may also see any lint errors in the console
+
