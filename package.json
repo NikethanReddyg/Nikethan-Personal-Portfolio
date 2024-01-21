@@ -28,7 +28,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "CI=false npm run browserslist && react-scripts build",
+    "browserslist": "npx browserslist@latest --update-db",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
