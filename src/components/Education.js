@@ -41,7 +41,7 @@ const EducationCard = ({ imageSrc, altText, title, degree, duration, gpa }) => (
                         title="The University Of Texas At Arlington"
                         degree="Master of Science - Computer Science"
                         duration="January 2024 - March 2026"
-                        gpa="4.0/4.0"
+                        gpa="3.8/4.0"
                       />
                       <EducationCard
                         imageSrc={UCEOU}
